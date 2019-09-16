@@ -5,6 +5,13 @@ Change Log
 
    <br />
 
+v4.1.4
+------
+
+ * Make tests more deterministic and easier to run outside of ``tox``.
+ * Use `Black <https://github.com/psf/black>`_ to format all code.
+
+
 v4.1.3
 ------
 
